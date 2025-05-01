@@ -1,7 +1,8 @@
 # 🐍 Snake Game in Python
 
 A classic Snake game built with Python using the Pygame library. Eat the food, grow the snake, and try not to hit the walls or yourself!
-![Screenshot (792)](https://github.com/user-attachments/assets/3ff7a9ba-6d8c-4f17-a60b-03efc6a9917b)
+
+![433684210-3ff7a9ba-6d8c-4f17-a60b-03efc6a9917b](https://github.com/user-attachments/assets/8c16ebe9-3335-47cf-bdb7-816bdc9181a6)
 
 ## 🛠️ Features
 
